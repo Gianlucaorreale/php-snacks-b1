@@ -39,6 +39,7 @@ $posts = [
         ]
     ],
 ];
+var_dump($posts);
 ?>
 
 <!DOCTYPE html>
